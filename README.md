@@ -1,2 +1,3 @@
-# holliday
-holliday code challenge
+# maven-project
+
+Simple Maven Project
